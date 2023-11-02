@@ -1,0 +1,1 @@
+download the whole dataset from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz 
